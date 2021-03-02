@@ -7,7 +7,7 @@ import java.util.Queue;
 /**
  * nowcoder pass
  */
-public class 从上往下打印二叉树 {
+public class 从上往下打印二叉树AC {
 
     public ArrayList<Integer> PrintFromTopToBottom(TreeNode root) {
         ArrayList<Integer> ret = new ArrayList<>();

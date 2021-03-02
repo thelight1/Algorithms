@@ -8,7 +8,7 @@ import java.util.Queue;
 /**
  * nowcoder pass
  */
-public class 按之字形顺序打印二叉树 {
+public class 按之字形顺序打印二叉树AC {
 
     public ArrayList<ArrayList<Integer>> Print(TreeNode root) {
         ArrayList<ArrayList<Integer>> ret = new ArrayList<>();

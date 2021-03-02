@@ -3,7 +3,7 @@ package org.thelight1.binarytree;
 /**
  * nowcoder pass
  */
-public class 二叉树的深度 {
+public class 求二叉树的深度AC {
 
     public int TreeDepth(TreeNode root) {
        if (root == null) {
